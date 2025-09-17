@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+
+# OS/editor
+.DS_Store
+.vscode/
