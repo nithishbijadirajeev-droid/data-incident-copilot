@@ -1,14 +1,7 @@
-# Python
 __pycache__/
 *.pyc
-
-# Env / secrets
+*.pyo
+*.pyd
+.venv/
 .env
-.env.local
-
-# Streamlit
-.streamlit/
-
-# OS/editor
 .DS_Store
-.vscode/

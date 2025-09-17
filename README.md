@@ -17,3 +17,9 @@ pip install -r requirements.txt
 streamlit run app.py --server.address 0.0.0.0 --server.port 8501
 # Data Incident Copilot
 An Agentic AI DataOps Copilot built with Microsoft WTH and Azure OpenAI Service.
+
+## Quickstart
+```bash
+pip install -r requirements.txt
+streamlit run app.py --server.address 0.0.0.0 --server.port 8501
+```
